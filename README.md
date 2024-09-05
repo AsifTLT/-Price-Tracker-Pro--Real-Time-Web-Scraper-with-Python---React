@@ -1,41 +1,17 @@
-# Project Information
+ Price Tracker Pro: Real-Time Web Scraper with Python & React  🔍 
 
-This project provides a user interface to interact with an automated price tracking web scraper. Currently the tracker scrapes amazon.ca, but could be configured to scrape multiple sources.
+🔥 Excited to share my latest project: a powerful price tracking web scraper!
 
-## Libraries/Frameworks/Modules
+📊 Backend magic with Python tools like asyncio, Flask, SQLAlchemy, and more!
 
-This project uses:
+⚡ Front-end awesomeness built with React for a seamless user experience.
 
-- React
-- Flask
-- Playwright
-- Bright Data (Web Scraping Browser)
+🕵️‍♂️ Track prices across Amazon in real-time, effortlessly.
 
-## Using the Scraper
+📈 Monitor price history with interactive tables and dynamic data.
 
-Install all dependencies, create the `auth.json` file, start the flask backend, run the react frontend and interact with the tool.
+🌐 Why choose this project? Perfect for savvy shoppers and data enthusiasts!
 
-### auth.json
+🚀 Open source and ready to customize—your ultimate price tracker awaits!
 
-Fill in your [Bright Data Scraping Browser](https://brightdata.com/products/scraping-browser) credentials in a `backend/scraper/auth.json` file (see `auth_example.json`).
-
-### Python Flask Backend
-
-- `cd backend`
-- `pip install -r requirements.txt`
-- `playwright install`
-- `python app.py` or `python3 app.py`
-
-### Running the React Frontend
-
-- `cd frontend`
-- `npm i`
-- `npm run start`
-
-## Setting Up Automation
-
-To automate the collection of prices from this software simply run the `scheduler/main.py` file at your desired increment while the python flask backend is running.
-
-### Windows
-
-I have created a simple `.bat` script called `run.bat` that you can schedule to execute using the Windows Task Scheduler that will automatically run the backend api and send the appropriate request to it.
+Hashtags: #Python #WebScraping #ReactJS #Flask #Asyncio #SQLAlchemy #PriceTracking #OpenSource #WebDevelopment #JavaScript #DataScience #Ecommerce #APIs #CodeNewbie #DevCommunity
