@@ -12,6 +12,6 @@
 
 🌐 Why choose this project? Perfect for savvy shoppers and data enthusiasts!
 
-🚀 Open source and ready to customize—your ultimate price tracker awaits!
+🚀 Open source and ready to customize—your ultimate price tracker awaits.
 
 Hashtags: #Python #WebScraping #ReactJS #Flask #Asyncio #SQLAlchemy #PriceTracking #OpenSource #WebDevelopment #JavaScript #DataScience #Ecommerce #APIs #CodeNewbie #DevCommunity
